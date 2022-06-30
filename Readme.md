@@ -25,8 +25,8 @@
 
 To run this project, you will need to add the following environment variables to your `.env` file:
 
-- **`VITE_APP_API_URL`:** **GraphCMS** API Link (used on **Apollo Client**)
-- **`VITE_APP_API_TOKEN`:** **GraphCMS** Token (used on **Apollo Client** to)
+- **`VITE_API_URL`:** **GraphCMS** API Link (used on **Apollo Client**)
+- **`VITE_API_ACCESS_TOKEN`:** **GraphCMS** Token (used on **Apollo Client** to)
 
 ## 🌐 Live Version
 
