@@ -34,11 +34,9 @@ To run this project, you will need to add the following environment variables to
 
 ## 🔗 More About Me
 
-[
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/rodrigo-si/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-si/)
 [![instragram](https://img.shields.io/badge/instragram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo_dev_front/)
-]
+
 [react]: https://img.shields.io/badge/react-1E4174?style=for-the-badge&logo=react&logoColor=white
 [graphql]: https://img.shields.io/badge/graphql-1E4174?style=for-the-badge&logo=graphql&logoColor=white
 [apollo]: https://img.shields.io/badge/apollo%20client-1E4174?style=for-the-badge&logo=apollographql&logoColor=white
