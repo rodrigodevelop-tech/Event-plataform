@@ -2,6 +2,7 @@ import { FormEvent, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
+import backgroundMockup from "../assets/code-mockup.png";
 
 export function Subscribe() {
   const [name, setName] = useState("");
@@ -78,7 +79,7 @@ export function Subscribe() {
 
       <img
         className="mt-10"
-        src="/src/assets/code-mockup.png"
+        src={backgroundMockup}
         alt="Screenshot de uma página no vscode"
       />
     </div>
