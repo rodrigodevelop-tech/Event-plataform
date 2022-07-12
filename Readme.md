@@ -30,7 +30,7 @@ To run this project, you will need to add the following environment variables to
 
 ## 🌐 Live Version
 
-[![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)]("")
+[![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://event-plataform-tawny.vercel.app/)
 
 ## 🔗 More About Me
 
